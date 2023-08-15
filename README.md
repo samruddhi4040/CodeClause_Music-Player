@@ -6,5 +6,5 @@ Here are some additional details:
 The music player uses pygame & tkinter library to read and parse MP3 files.          
 The Pygame library is used to play the music files.                
 The Tkinter library is used to create the user interface.                              
-The project is modularized into different functions, which makes it easy to maintain and extend.
+The project is modularized into different functions, which makes it easy to maintain and extend.                  
 The project is well-documented, which makes it easy to understand and use.
